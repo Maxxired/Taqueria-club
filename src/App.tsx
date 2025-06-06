@@ -1,5 +1,5 @@
 import {useRoutes, type RouteObject} from "react-router-dom"
-import Home from "./pages/Home/Home.tsx";
+import Home from "./pages/Home.tsx";
 
 
 const AppRoutes: React.FC = () => {
