@@ -39,6 +39,8 @@ const Home: React.FC = () => {
                     >
                         Iniciar Sesión
                     </button>
+                    <a>Cambio aplicado
+                    </a>
                 </form>
             </section>
         </main>
