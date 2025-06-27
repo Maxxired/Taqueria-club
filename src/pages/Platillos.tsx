@@ -41,7 +41,7 @@ const Platillos = () => {
     }
 
     return (
-        <div className="flex flex-col items-center justify-center h-screen bg-gray-500">
+        <div className="flex flex-col items-center justify-center h-screen ">
             <h1 className="text-4xl font-bold mb-4">Platillos</h1>
             <p className="text-lg text-gray-700">Aquí puedes ver los platillos disponibles.</p>
             <ul className='space-y-2'>
